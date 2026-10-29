@@ -1,7 +1,7 @@
 
 <?php
 // Database connection
-$host = "mi-linex.wlv.ac.uk";
+$host = "localhost";
 $username = "2440245";
 $password = "Rabinbst123*";
 $database = "db2440245";
